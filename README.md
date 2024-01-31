@@ -14,6 +14,7 @@ Instructions:
 
 Contents 
 0.0.1  Libraries and Data preparation
+
 0.1  Data Exploration
 0.1.1  Customers:
 0.1.2  Products:
